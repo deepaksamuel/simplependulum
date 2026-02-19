@@ -8,3 +8,5 @@ videos of pendulum oscillations
 The Google sheet containing the numerical values is here:
 
 ```https://docs.google.com/spreadsheets/d/1S0iozo57otYFEmZYuIMrEEXjQQYB_mJTXkgjbMWxRvc/edit?usp=sharing```
+
+The used frames are from 140-1191
