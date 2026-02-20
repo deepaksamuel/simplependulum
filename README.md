@@ -8,7 +8,7 @@ videos of pendulum oscillations
 - Bin width ~50 cm
 - Extent of oscillations: 300 cm (from one side to other)
 
-## Dataset from video
+## Dataset from video by Merric
 The used frames are from 140-1191
 
 - Total frames: 1453  
